@@ -1,9 +1,9 @@
 
-# Projetos de Portfólio | Data Science
+# Projetos de Data Science
 
 Aqui procuro disponibilizar projetos que fiz que envolvem data science. Ademais, explico resumidamente o objetivo de cada um.
 
-## Projetos
+## Projetos de Portfólio
 
  - [Análise de dados da empresa House Rocket](https://github.com/mthSolon/Data_Science/blob/main/House_Rocket.ipynb):
 Este foi um desafio proposto pelo site *Seja um Data 
@@ -26,3 +26,7 @@ da probabilidade de morte do modelo utilizado no projeto anterior.
 Infelizmente, a interface só fica online caso eu deixe o notebook 
 executando, portanto não é possível visualizar a menos que
 você me contate para eu deixa-la online para você visualizar.
+
+## Projetos de Estudos
+- [Aprendizagem de máquina com dataset do Titanic](https://github.com/mthSolon/Data_Science/blob/main/Estudos/Titanic.ipynb)
+- [Utilização de alguns modelos de regressão no dataset de aluguel de bicicletas](https://github.com/mthSolon/Data_Science/blob/main/Estudos/bike_rental.ipynb)
