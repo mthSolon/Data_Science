@@ -30,3 +30,4 @@ você me contate para eu deixa-la online para você visualizar.
 ## Projetos de Estudos
 - [Aprendizagem de máquina com dataset do Titanic](https://github.com/mthSolon/Data_Science/blob/main/Estudos/Titanic.ipynb)
 - [Utilização de alguns modelos de regressão no dataset de aluguel de bicicletas](https://github.com/mthSolon/Data_Science/blob/main/Estudos/bike_rental.ipynb)
+- [Implementação do gradiente descendente para uma regressão linear com duas variáveis](https://github.com/mthSolon/Data_Science/blob/main/Estudos/gradiente_descendente.ipynb)
