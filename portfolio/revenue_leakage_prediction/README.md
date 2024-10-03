@@ -1,3 +1,6 @@
+O projeto foi feito em um arquivo jupyter notebook (.ipynb). No projeto, temos que criar uma solução que preveja o cancelamento de reservas em um hotel e analisar o impacto financeiro da solução no vazamento de receita do hotel.
+Abaixo eu faço um resumo sobre as principais seções encontradas no notebook.
+
 # 1. **Instalação de Pacotes e Importação de Bibliotecas:**
    - O código começa instalando o pacote `catboost` e importando diversas bibliotecas, como `pandas`, `seaborn`, `matplotlib`, `sklearn` e outras para manipulação de dados, visualização e implementação de modelos de machine learning.
    - Define temas para gráficos e ignora warnings irrelevantes.
