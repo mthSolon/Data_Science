@@ -5,6 +5,15 @@ Aqui procuro disponibilizar projetos que fiz que envolvem data science. Ademais,
 
 ## Projetos de Portfólio
 
+- [Previsão de vazamento de receita em reservas de hotel](https://github.com/mthSolon/Data_Science/blob/main/portfolio/revenue_leakage_prediction/):
+Neste projeto, fiz uma análise exploratória e criei uma 
+solução com Machine Learning para prever o cancelamento
+das reservas feitas por clientes de um hotel com o
+intuito de reduzir o vazamento de receita. Além disso, fiz
+análise do impacto financeiro da implementação da minha solução
+calculando a receita potencialmente perdida e ganhada com ofertas
+criadas hipoteticamente.
+
  - [Análise de dados da empresa House Rocket](https://github.com/mthSolon/Data_Science/blob/main/portfolio/house_rocket/House_Rocket.ipynb):
 Este foi um desafio proposto pelo site *Seja um Data 
 Scientist*, que não está mais no ar. A House Rocket é 
