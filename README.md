@@ -50,7 +50,7 @@ facilitated the visualization of insights.
 - [Implementation of Gradient Descent for Linear Regression with Two Variables](https://github.com/mthSolon/Data_Science/blob/main/estudos/gradiente_descendente.ipynb)
 
 
-# Portuguese
+# Português
 
 # Projetos de Data Science
 
